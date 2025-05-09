@@ -1,0 +1,9 @@
+<UserControl x:Class="RC_GUI_WATS.UI.Views.SettingsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:vm="clr-namespace:RC_GUI_WATS.UI.ViewModels">
+    <Grid>
+        <TextBlock Text="Settings" FontSize="16" FontWeight="Bold" Margin="10"/>
+        <!-- tutaj kontrolki do limitów i kill switch -->
+    </Grid>
+</UserControl>

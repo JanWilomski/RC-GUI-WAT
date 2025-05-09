@@ -1,0 +1,20 @@
+﻿RC_GUI_WATS.UI
+
+
+winexe
+C#
+.cs
+C:\Users\janwil\Documents\RC GUI WATS\RC_GUI_WATS.UI\obj\Debug\net8.0-windows\
+RC_GUI_WATS.UI
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\Users\janwil\Documents\RC GUI WATS\RC_GUI_WATS.UI\App.xaml
+51376134978
+
+13-790468156
+2001764516792
+MainWindow.xaml;Views\FiltersView.xaml;Views\InsutrmentsView.xaml;Views\MessagesView.xaml;Views\SettingsView.xaml;
+
+False
+

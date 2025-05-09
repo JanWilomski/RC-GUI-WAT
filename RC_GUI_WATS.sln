@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RC_GUI_WATS.Core", "RC_GUI_WATS.Core\RC_GUI_WATS.Core.csproj", "{267A5964-04CC-482C-AA08-1AE52D1E90EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RC_GUI_WATS.UI", "RC_GUI_WATS.UI\RC_GUI_WATS.UI.csproj", "{583A4530-D8F2-477E-ACD8-782C6AC9A0D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{267A5964-04CC-482C-AA08-1AE52D1E90EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267A5964-04CC-482C-AA08-1AE52D1E90EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267A5964-04CC-482C-AA08-1AE52D1E90EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267A5964-04CC-482C-AA08-1AE52D1E90EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{583A4530-D8F2-477E-ACD8-782C6AC9A0D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583A4530-D8F2-477E-ACD8-782C6AC9A0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583A4530-D8F2-477E-ACD8-782C6AC9A0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583A4530-D8F2-477E-ACD8-782C6AC9A0D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
